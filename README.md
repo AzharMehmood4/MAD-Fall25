@@ -1,7 +1,7 @@
 MAD-Fall25 — All Repositories
 
 Welcome to the MAD-Fall25 (Mobile Application Development) collection!
-This page contains Quiz1,assignment1-2 and midterm 
+This page contains Quiz1,assignment1 & 2 and midterm 
 
 📂 1. Coffee Shop App (Midterm Project)
 
