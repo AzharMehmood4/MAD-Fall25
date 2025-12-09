@@ -36,7 +36,3 @@ A full-stack mobile e-commerce app with **React Native frontend** and **Node.js 
 🎥 **App Video:**  https://youtu.be/X0A2TyAAMlg?si=PUkWS0xntKhAQ4Pj
 
 🔗 **Repository:**  https://github.com/AzharMehmood4/MAD-Fall25/tree/main/midexam
-
----
-
-If you want, I can add **YouTube icons**, **better formatting**, or **turn this into a full README** for your GitHub main repo.
