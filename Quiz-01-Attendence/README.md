@@ -1,8 +1,6 @@
 # Attendance App
 
-🎥 **App Video:**  
-[![YouTube](https://img.icons8.com/color/24/youtube-play.png)](https://youtu.be/RZFR9Yq0jhU?si=ABQIPH5hsdX_yFh9)  
-[https://youtu.be/RZFR9Yq0jhU?si=ABQIPH5hsdX_yFh9](https://youtu.be/RZFR9Yq0jhU?si=ABQIPH5hsdX_yFh9)
+🎥 **App Video:**  [![YouTube](https://img.icons8.com/color/24/youtube-play.png)](https://youtu.be/RZFR9Yq0jhU?si=ABQIPH5hsdX_yFh9)  [https://youtu.be/RZFR9Yq0jhU?si=ABQIPH5hsdX_yFh9](https://youtu.be/RZFR9Yq0jhU?si=ABQIPH5hsdX_yFh9)
 
 This is a **React Native Attendance App** built using [`@react-native-community/cli`](https://github.com/react-native-community/cli).  
 It allows users to mark and track attendance for classes or events — a perfect starter app for mobile app practice.
