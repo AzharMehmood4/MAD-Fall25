@@ -1,61 +1,76 @@
-# SillSwap (MAD Assignment 01)
+# SkillSwap (MAD Assignment 01)
 
-A React Native app project built as part of the Mobile Application Development (MAD) assignment.  
-This app (tentatively named *SillSwap*) allows users to … _(insert short description of what your app does: e.g., swap/sell items, share items, chat, browse catalog, etc.)_
-
----
-
-## Prerequisites
-
-Before you begin, make sure you have:
-
-- Node.js (latest version)  
-- npm or Yarn  
-- For **iOS**: macOS + Xcode + CocoaPods  
-- For **Android**: Android Studio + appropriate SDK & emulator / device  
-- React Native environment setup (follow official guide)  
+A **React Native mobile application** developed as part of the **Mobile Application Development (MAD)** course.  
+**SkillSwap** is an interactive platform where users can **exchange skills, services, or expertise** with others.  
+Users can browse available skills, offer their own skills, and connect with people for mutual skill-sharing.
 
 ---
 
-## Getting Started
+## 🎥 App Demo Video[![YouTube](https://img.icons8.com/color/28/youtube-play.png)](https://youtube.com/shorts/UF-BAR2Vwhc?si=fqh7Uub3FmD_uTbw)  https://youtube.com/shorts/UF-BAR2Vwhc?si=fqh7Uub3FmD_uTbw
 
-### Clone the repository
+---
+
+## 📌 Features (Example — modify if needed)
+
+- Browse available skills posted by users  
+- Post your own skills or services  
+- Request or offer a skill swap  
+- Modern UI with React Native components  
+- Smooth navigation & fast performance  
+
+---
+
+## 🚀 Prerequisites
+
+Before running the project, ensure the following are installed:
+
+- **Node.js** (latest version recommended)  
+- **npm** or **Yarn**  
+- **Android Studio** (for Android development)  
+- **Xcode + CocoaPods** (for iOS, macOS only)  
+- Complete **React Native environment setup**  
+  👉 https://reactnative.dev/docs/set-up-your-environment
+
+---
+
+## 📥 Getting Started
+
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/msohaaib/MAD_Assignment_01_-SillSwap-.git
 cd MAD_Assignment_01_-SillSwap-
-```
+````
 
-### Install dependencies
-
-Using npm:
+### 2️⃣ Install Dependencies
 
 ```bash
 npm install
+# or
+yarn install
 ```
 
-### Run the Metro bundler
-
-In the project root:
+### 3️⃣ Start Metro Bundler
 
 ```bash
 npx react-native start
-
 ```
 
-### Run on Android / iOS
+---
 
-Open a new terminal (while Metro is running):
+## 📱 Run the Application
 
-**Android**
+Open a **new terminal** while Metro is running.
+
+### **Android**
 
 ```bash
 npx react-native run-android
 ```
 
-**iOS**
+### **iOS**
 
-On macOS:
+(macOS only)
 
 ```bash
 npm run ios
@@ -65,39 +80,44 @@ yarn ios
 
 ---
 
-## Troubleshooting / Common Issues
+## 🛠️ Troubleshooting & Common Issues
 
-* Make sure your emulator / device is running and connected
+### 🔹 Emulator / Device Not Connected
 
-* For iOS, run `pod install` after adding or upgrading native modules
+Ensure your Android emulator or physical device is running.
 
-* Clear cache if you encounter weird bundling or module errors:
+### 🔹 iOS Pods Missing
 
-  ```bash
-  npx react-native start --reset-cache
-  ```
+```bash
+cd ios
+pod install
+cd ..
+```
 
-  or
+### 🔹 Metro Cache Issues
 
-  ```bash
-  yarn start --reset-cache
-  ```
+```bash
+npx react-native start --reset-cache
+```
 
-* If Android build fails, sometimes cleaning helps:
+### 🔹 Android Build Errors
 
-  ```bash
-  cd android
-  ./gradlew clean
-  cd ..
-  ```
+```bash
+cd android
+./gradlew clean
+cd ..
+```
 
-* If there are issues with native dependencies, double check versions in `android/build.gradle` and `ios/Podfile`
+### 🔹 Native Module Errors
+
+Double-check versions in:
+
+* `android/build.gradle`
+* `ios/Podfile`
 
 ---
 
-## Project Structure (example)
-
-Here’s a rough outline of your project’s directories and files:
+## 📂 Project Structure (Typical)
 
 ```
 /
@@ -117,5 +137,8 @@ Here’s a rough outline of your project’s directories and files:
 
 ---
 
+## 🎉 Final Words
 
-**Enjoy and happy coding!** 🚀
+Thanks for exploring **SkillSwap**!
+Feel free to improve, customize, or extend the project further.
+**Happy Coding 🚀**
