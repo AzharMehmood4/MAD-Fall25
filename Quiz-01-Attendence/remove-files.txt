@@ -1,0 +1,5 @@
+Quiz01-Attendence/android/app/build/outputs/apk/debug/app-debug.apk
+Quiz01-Attendence/android/app/build/intermediates/cxx/Debug/4k16q584/obj/armeabi-v7a/libreactnative.so
+Quiz01-Attendence/android/app/build/intermediates/cxx/Debug/4k16q584/obj/x86/libreactnative.so
+Quiz01-Attendence/android/app/build/intermediates/cxx/Debug/4k16q584/obj/x86_64/libreactnative.so
+Quiz01-Attendence/android/app/build/intermediates/cxx/Debug/4k16q584/obj/arm64-v8a/libreactnative.so
