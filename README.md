@@ -9,7 +9,7 @@ This page contains **Quiz 1, Assignment 1, Assignment 2, and Midterm** projects.
 
 🎥 **App Video:**  https://youtu.be/RZFR9Yq0jhU?si=ABQIPH5hsdX_yFh9
 
-🔗 **Repository:**  https://github.com/AzharMehmood4/MAD-Fall25/tree/main/quiz1
+🔗 **Repository:**  [https://github.com/AzharMehmood4/MAD-Fall25/tree/main/quiz1](https://github.com/AzharMehmood4/MAD-Fall25/tree/main/Quiz-01-Attendence)
 
 ---
 
