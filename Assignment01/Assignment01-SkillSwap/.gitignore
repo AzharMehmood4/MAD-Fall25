@@ -1,0 +1,76 @@
+# React Native
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.expo/
+.expo-shared/
+
+# Metro / Bundler
+.expo/
+dist/
+build/
+web-build/
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+*.apk
+*.aar
+*.so
+*.ap_
+*.aab
+local.properties
+android/key.properties
+
+# iOS
+ios/build/
+ios/Pods/
+ios/DerivedData/
+ios/*.xcworkspace
+ios/Podfile.lock
+ios/Podfile
+ios/*/Pods/
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+project.xcworkspace/
+xcuserdata/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Testing
+coverage/
+*.lcov
+
+# Env files
+.env
+.env.*.local
+
+# Misc
+*.lock
