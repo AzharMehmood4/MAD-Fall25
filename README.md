@@ -1,7 +1,7 @@
 # **MAD-Fall25 — All Repositories**
 
 Welcome to the **MAD-Fall25 (Mobile Application Development)** collection!  
-This page contains **Quiz 1, Assignment 1, Assignment 2, and Midterm** projects.
+This page contains **Quiz 1, Assignment 1, Assignment 2, Assignment 3, Assignment 4 and Midterm**.
 
 ---
 
@@ -31,8 +31,21 @@ A full-stack mobile e-commerce app with **React Native frontend** and **Node.js 
 
 ---
 
-## 📂 **4. Midterm — Coffee Shop App**
+## 📂 **4. Assignment 3 — Bidding on freelancer platform**
+
+🔗 **Repository:**  https://github.com/AzharMehmood4/MAD-Fall25/blob/main/Assignment03/A3_MAD%20%20__8397.pdf
+
+----
+
+## 📂 **5. Assignment 4 — Publish App on online selling platform**
+
+🔗 **Repository:**  https://github.com/AzharMehmood4/MAD-Fall25/blob/main/Assignment04/A4_MAD%20%20__8397.pdf
+
+----
+
+## 📂 **6. Midterm — Coffee Shop App**
 
 🎥 **App Video:**  https://youtu.be/X0A2TyAAMlg?si=PUkWS0xntKhAQ4Pj
 
 🔗 **Repository:**  https://github.com/AzharMehmood4/MAD-Fall25/tree/main/midexam
+
