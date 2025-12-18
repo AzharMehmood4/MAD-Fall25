@@ -15,7 +15,7 @@ This page contains **Quiz 1, Assignment 1, Assignment 2, Assignment 3, Assignmen
 
 ## 📂 **2. Assignment 1 — SkillSwap App**
 
-🎥 **App Demo Video:**  https://youtube.com/shorts/VrH3fR0w0xc?si=zV4V9mBpAzUpLekE
+🎥 **App Video:**  https://youtube.com/shorts/VrH3fR0w0xc?si=zV4V9mBpAzUpLekE
 
 🔗 **Repository:**  https://github.com/AzharMehmood4/MAD-Fall25/tree/main/Assignment01
 
