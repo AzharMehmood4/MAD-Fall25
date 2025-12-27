@@ -52,7 +52,7 @@ A full-stack mobile e-commerce app with **React Native frontend** and **Node.js 
 ----
 
 
-## 📂 **7. Project MirsalDubai**
+## 📂 **7. Semester Project MirsalDubai**
 
 🔗 **Repository:**  https://github.com/AzharMehmood4/MirsalDubai-Apk
 
