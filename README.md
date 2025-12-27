@@ -49,3 +49,11 @@ A full-stack mobile e-commerce app with **React Native frontend** and **Node.js 
 
 🔗 **Repository:**  https://github.com/AzharMehmood4/MAD-Fall25/tree/main/midexam
 
+----
+
+
+## 📂 **7. Project MirsalDubai**
+
+🔗 **Repository:**  https://github.com/AzharMehmood4/MirsalDubai-Apk
+
+
